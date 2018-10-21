@@ -9,6 +9,7 @@ body {
 
 .info {
   float: left;
+  padding: 70px 0;
   color: white;
   text-shadow: 2px 2px 4px #000000;
 }
