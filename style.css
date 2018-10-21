@@ -4,7 +4,7 @@ body {
   background: -moz-linear-gradient(top left, #EDE9F0, #23ECD4);
   background: linear-gradient(top left, #EDE9F0, #23ECD4);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
 }
 
 .info {
