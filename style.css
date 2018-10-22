@@ -1,4 +1,7 @@
-body {
+.grid-container {
+  display: grid;
+  grid-template-columns: auto;
+  grid-gap: 10px;
   height: 100%;
   width: 100%;
   background: #EDE9F0;
@@ -10,6 +13,8 @@ body {
 }
 
 .info {
+  grid-column-start: 1;
+  grid-column-end: 3;
   float: left;
   padding: 70px 0;
   color: white;
